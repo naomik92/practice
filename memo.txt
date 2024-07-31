@@ -1,3 +1,6 @@
 apple
 orange
 grape
+banana
+peach
+melon
